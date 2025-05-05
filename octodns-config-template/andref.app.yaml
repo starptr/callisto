@@ -116,7 +116,7 @@ radicle:
 manual.dev:
   octodns:
     cloudflare:
-      comment: This record is manually set for dev. Source of truth is in Callisto, but it's not too important. Use v4.ident.me to see my IP address.
+      comment: notion.so/Gas-Giants-85c15c0fbfde4fe4ab30182b3fdb930a?pvs=4#1eae2551a84e805e87c0e08db23fe95f
   ttl: 60
   type: A
   value: 24.130.65.84
