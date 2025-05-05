@@ -113,3 +113,10 @@ radicle:
   ttl: 60
   type: A
   value: ＜ serverref.ipAddress ＞
+manual.dev:
+  octodns:
+    cloudflare:
+      comment: This record is manually set for dev. Source of truth is in Callisto, but it's not too important. Use v4.ident.me to see my IP address.
+  ttl: 60
+  type: A
+  value: 24.130.65.84
