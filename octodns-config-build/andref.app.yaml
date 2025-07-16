@@ -120,3 +120,11 @@ manual.dev:
   ttl: 60
   type: A
   value: 24.130.65.84
+syncthing.ts:
+  octodns:
+    cloudflare:
+      auto-ttl: true
+      comment: Tailscale IP for hydrogen-sulfide
+  ttl: 60
+  type: A
+  value: 100.110.15.98
